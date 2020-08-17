@@ -1,0 +1,10 @@
+aiodns==2.0.0
+certifi==2020.6.20
+cffi==1.14.2
+chardet==3.0.4
+idna==2.10
+pycares==3.1.1
+pycparser==2.20
+pydnsbl==1.0.5
+requests==2.24.0
+urllib3==1.25.10
